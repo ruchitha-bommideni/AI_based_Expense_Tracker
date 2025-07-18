@@ -12,7 +12,7 @@ This is a full-stack expense tracking application powered by AI. Users can add a
 - Chart-based visualizations (bar/pie)
 - Monthly budget alerts with overspending detection
 - Export expenses as CSV/PDF
-<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/2e23519e-c4ea-40f1-8618-96ff15a41279" />
+<img width="275" height="450" alt="image" src="https://github.com/user-attachments/assets/2e23519e-c4ea-40f1-8618-96ff15a41279" />
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/cd411f60-0ded-4abe-801a-fbdba79d551c" />
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/1055ac0c-dc29-42c4-95a3-9f36369ba8e1" />
 <img width="300" height="490" alt="image" src="https://github.com/user-attachments/assets/b3fc42b0-77a8-408e-8201-c6acf3db381b" />
