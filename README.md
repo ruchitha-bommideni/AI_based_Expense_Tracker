@@ -33,6 +33,37 @@ This is a full-stack expense tracking application powered by AI. Users can add a
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/ai-expense-tracker.git
 cd ai-expense-tracker
+
+### 2. Backend Setup
+Install dependencies and run:
+
+# For Flask
+pip install -r requirements.txt
+python app.py
+
+# OR for Node.js
+npm install
+node server.js
+
+### 3.Frontend
+Open frontend/index.html in a browser directly or serve with live server.
+
+### 4. PostgreSQL
+Run the schema in backend/db/schema.sql to create necessary tables.
+
+### 5.Machine Learning
+The model is already trained and saved as category_predictor.pkl.
+To retrain, run the notebook in notebook/ml_model_training.ipynb.
+
+### Future Enhancements:
+Mobile-first responsive UI
+Integration with SMS/email alerts
+
+### Author
+B. Ruchitha
+
+
+
+
